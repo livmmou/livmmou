@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on help people in their problems.
 - 📫 How to reach me ... livia.manoeldemoura@gmail.com
 
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 livmmou/livmmou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
