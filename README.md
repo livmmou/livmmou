@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on help people in their problems.
 - 📫 How to reach me ... livia.manoeldemoura@gmail.com
 
-[![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmou&hide=html&layout=compact&theme=highcontrast&show)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmou&hide=html&layout=compact&theme=synthwave&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
