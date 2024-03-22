@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @livmmou!
+- 🌎 I'm from Brazil!
 - 👀 I’m interested in learn different things.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on help people in their problems.
