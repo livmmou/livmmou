@@ -6,7 +6,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmou&hide=html&layout=compact&theme=radical&show)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmou&layout=compact&theme=radical&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
