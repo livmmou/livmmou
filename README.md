@@ -5,7 +5,7 @@
 - 📫 How to reach me ... livia.manoeldemoura@gmail.com
 
 [![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmoue&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
