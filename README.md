@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on help people in their problems.
 - 📫 How to reach me ... livia.manoeldemoura@gmail.com
-- 
-[![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=radical_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![livmmou](https://github-readme-stats.vercel.app/api/top-langs/?username=livmmou&hide=html&layout=compact&theme=Synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 
 
