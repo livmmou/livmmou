@@ -3,7 +3,7 @@
 - 👀 I’m interested in learn different things.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on help people in their problems.
-- 📫 How to reach me ... livia.manoeldemoura@gmail.com
+- 📫 How to reach me ... livia.manoeldemoura@gmail.com 💖
 
 [![card](https://github-readme-stats.vercel.app/api?username=livmmou&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
